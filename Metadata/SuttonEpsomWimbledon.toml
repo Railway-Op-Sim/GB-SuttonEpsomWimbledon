@@ -1,0 +1,9 @@
+rly_file = "SuttonEpsomWimbledon.rly"
+ttb_files = []
+ssn_files = []
+country_code = "GB"
+name = ""
+description = ""
+display_name = "Suttonepsomwimbledon"
+author = "Daniel Gill"
+contributors = [ "Daniel-Gill",]
