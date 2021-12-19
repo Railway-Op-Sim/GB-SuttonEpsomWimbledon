@@ -9,7 +9,7 @@ A route covering Sutton, Epsom and Wimbledon, designed to connect with several o
 | ------------- |:-------------:|
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
-| Naming | :x:      |
+| Naming | :heavy_check_mark:      |
 | Speed Limits | :x: |
 | Distances | :x: |
 | Timetable | :x: |
