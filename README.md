@@ -10,8 +10,8 @@ A route covering Sutton, Epsom and Wimbledon, designed to connect with several o
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
 | Naming | :heavy_check_mark:      |
-| Speed Limits | :x: |
-| Distances | :x: |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
 | Timetable | :x: |
 | Documentation | :x: |
 
@@ -20,3 +20,4 @@ A route covering Sutton, Epsom and Wimbledon, designed to connect with several o
 
 - [OpenStreetMap](https://www.openstreetmap.org/#map=12/51.3776/-0.2115)
 - [TRAKSY.UK](https://traksy.uk/live/M+23+DONC/M+9+SUTTON)
+- [Meurisse](https://map.meurisse.org/)
