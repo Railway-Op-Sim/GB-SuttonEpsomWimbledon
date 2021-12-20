@@ -4,9 +4,7 @@
 
 ### To/From Epsom Downs
 
-https://www.realtimetrains.co.uk/search/detailed/gb-nr:SUO/to/gb-nr:EPD/2022-01-03/0600-2000?stp=WVS&show=all&order=wtt
-
-https://www.realtimetrains.co.uk/search/detailed/gb-nr:SUO/from/gb-nr:EPD/2022-01-03/0600-2000?stp=WVS&show=all&order=wtt
+DONE
 
 ### To/From Dorking/Horsham
 
