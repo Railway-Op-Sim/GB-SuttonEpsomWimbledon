@@ -145,6 +145,115 @@
             "times": [
                 "06:34"
             ]
+        },
+        {
+            "ref":"1I05",
+            "description":"Dorking to London Bridge",
+            "dataTemplate":"C377/1_4",
+            "startSpeed":80,
+            "increment":2,
+            "events": [
+                "23:48;Snt;4-39 5-39",
+                "23:49;23:49;Epsom",
+                "23:54;23:54;Ewell East",
+                "23:57;23:57;Cheam",
+                "23:59;00:00;Sutton",
+                "00:03;00:03;Carshalton",
+                "00:06;00:06;Hackbridge",
+                "00:09;00:10;Mitcham Junction",
+                "00:14;00:14;Mitcham Eastfields",
+                "00:16;Fer;94-17"
+            ],
+            "times": [
+                {"time":"07:04","ref":"1I05","description":"Dorking to London Bridge"},
+                {"time":"07:39","ref":"1I07","description":"Dorking to London Bridge"},
+                {"time":"08:04","ref":"1I09","description":"Dorking to London Bridge"},
+                {"time":"08:35","ref":"1I11","description":"Dorking to London Bridge"},
+                {"time":"09:04","ref":"1I13","description":"Horsham to London Bridge"},
+                {"time":"09:35","ref":"1I15","description":"Dorking to London Bridge"},
+                {"time":"10:04","ref":"1I17","description":"Horsham to London Bridge"},
+                {"time":"10:35","ref":"1I19","description":"Dorking to London Bridge"},
+                {"time":"11:04","ref":"1I21","description":"Horsham to London Bridge"},
+                {"time":"11:35","ref":"1I23","description":"Dorking to London Bridge"},
+                {"time":"12:04","ref":"1I25","description":"Horsham to London Bridge"},
+                {"time":"12:35","ref":"1I27","description":"Dorking to London Bridge"},
+                {"time":"13:04","ref":"1I29","description":"Horsham to London Bridge"},
+                {"time":"13:35","ref":"1I31","description":"Dorking to London Bridge"},
+                {"time":"14:04","ref":"1I33","description":"Horsham to London Bridge"},
+                {"time":"14:35","ref":"1I35","description":"Dorking to London Bridge"},
+                {"time":"15:04","ref":"1I37","description":"Horsham to London Bridge"},
+                {"time":"15:35","ref":"1I39","description":"Dorking to London Bridge"},
+                {"time":"16:04","ref":"1I41","description":"Horsham to London Bridge"},
+                {"time":"16:35","ref":"1I43","description":"Dorking to London Bridge"},
+                {"time":"17:04","ref":"1I45","description":"Horsham to London Bridge"},
+                {"time":"17:35","ref":"1I47","description":"Dorking to London Bridge"}
+            ]
+        },
+        {
+            "ref":"2I02",
+            "description":"London Bridge to Dorking",
+            "dataTemplate":"C377/1_4",
+            "startSpeed":80,
+            "increment":2,
+            "events": [
+                "23:45;Snt;94-18 93-18",
+                "23:46;23:47;Mitcham Eastfields",
+                "23:50;23:50;Mitcham Junction",
+                "23:53;23:53;Hackbridge",
+                "23:56;23:56;Carshalton",
+                "00:00;00:00;Sutton",
+                "00:03;00:03;Cheam",
+                "00:06;00:06;Ewell East",
+                "00:10;00:11;Epsom",
+                "00:12;Fer;4-40"
+            ],
+            "times": [
+                {"time":"06:43","ref":"2I02","description":"London Bridge to Dorking"},
+                {"time":"07:04","ref":"1I04","description":"London Bridge to Dorking"},
+                {"time":"07:34","ref":"1I06","description":"London Bridge to Dorking"},
+                {"time":"08:04","ref":"1I08","description":"London Bridge to Horsham"},
+                {"time":"08:34","ref":"1I10","description":"London Bridge to Dorking"},
+                {"time":"09:04","ref":"1I12","description":"London Bridge to Horsham"},
+                {"time":"09:34","ref":"1I14","description":"London Bridge to Dorking"},
+                {"time":"10:04","ref":"1I16","description":"London Bridge to Horsham"},
+                {"time":"10:34","ref":"1I18","description":"London Bridge to Dorking"},
+                {"time":"11:04","ref":"1I20","description":"London Bridge to Horsham"},
+                {"time":"11:34","ref":"1I22","description":"London Bridge to Dorking"},
+                {"time":"12:04","ref":"1I24","description":"London Bridge to Horsham"},
+                {"time":"12:34","ref":"1I26","description":"London Bridge to Dorking"},
+                {"time":"13:04","ref":"1I28","description":"London Bridge to Horsham"},
+                {"time":"13:34","ref":"1I30","description":"London Bridge to Dorking"},
+                {"time":"14:04","ref":"1I32","description":"London Bridge to Horsham"},
+                {"time":"14:34","ref":"1I34","description":"London Bridge to Dorking"},
+                {"time":"15:04","ref":"1I36","description":"London Bridge to Horsham"},
+                {"time":"15:34","ref":"1I38","description":"London Bridge to Dorking"},
+                {"time":"16:04","ref":"1I40","description":"London Bridge to Horsham"},
+                {"time":"16:34","ref":"1I42","description":"London Bridge to Dorking"},
+                {"time":"17:04","ref":"1I44","description":"London Bridge to Horsham"},
+                {"time":"17:34","ref":"1I46","description":"London Bridge to Dorking"}
+            ]
+        },
+        {
+            "ref":"2I03",
+            "description":"Epsom to London Bridge",
+            "dataTemplate":"C377/1_4",
+            "startSpeed":0,
+            "increment":2,
+            "events": [
+                "23:18;Snt;16-41 17-41",
+                "23:49;Epsom",
+                "23:54;23:54;Ewell East",
+                "23:57;23:57;Cheam",
+                "23:59;00:00;Sutton",
+                "00:03;00:03;Carshalton",
+                "00:06;00:06;Hackbridge",
+                "00:09;00:10;Mitcham Junction",
+                "00:14;00:14;Mitcham Eastfields",
+                "00:16;Fer;94-17"
+            ],
+            "times": [
+                "06:42"
+            ]
         }
     ]
 }
