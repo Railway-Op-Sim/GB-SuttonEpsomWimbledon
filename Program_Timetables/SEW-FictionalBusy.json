@@ -1,0 +1,123 @@
+{
+    "startTime":"06:00",
+    "services": [
+        {
+            "ref":"1S16",
+            "description":"London Bridge to Epsom",
+            "startSpeed":80,
+            "dataTemplate":"C377/1_4",
+            "increment":2,
+            "events": [
+                "23:49;Snt;98-49 97-49",
+                "23:50;23:50;Waddon",
+                "23:54;23:54;Wallington",
+                "23:56;23:56;Carshalton Beeches",
+                "00:00;00:00;Sutton",
+                "00:03;00:03;Cheam",
+                "00:06;00:06;Ewell East",
+                "00:10;Epsom",
+                "00:11;cdt",
+                "00:12;Fns;1S17"
+            ],
+            "times": [
+                "06:15","06:30","06:45","07:00","07:15","07:30","07:45","08:00","08:15","08:30","08:45","09:00","09:15","09:30","09:45","10:00","10:15","10:30","10:45","11:00","11:15","11:30","11:45"
+            ]
+        },
+        {
+            "ref":"1S17",
+            "description":"Epsom to London Bridge",
+            "increment":2,
+            "events": [
+                "00:12;Sns;1S16",
+                "00:13;Epsom",
+                "00:17;00:17;Ewell East",
+                "00:19;00:19;Cheam",
+                "00:22;00:22;Sutton",
+                "00:26;00:26;Carshalton Beeches",
+                "00:28;00:28;Wallington",
+                "00:32;00:32;Waddon",
+                "00:33;Fer;98-48"
+            ],
+            "times": [
+                "06:15","06:30","06:45","07:00","07:15","07:30","07:45","08:00","08:15","08:30","08:45","09:00","09:15","09:30","09:45","10:00","10:15","10:30","10:45","11:00","11:15","11:30","11:45"
+            ]
+        },
+        {
+            "ref":"1I11",
+            "description":"London Victoria to Dorking",
+            "startSpeed":80,
+            "dataTemplate":"C377/1_4",
+            "increment":2,
+            "events": [
+                "23:45;Snt;94-18 93-18",
+                "23:46;23:47;Mitcham Eastfields",
+                "23:50;23:50;Mitcham Junction",
+                "23:53;23:53;Hackbridge",
+                "23:56;23:56;Carshalton",
+                "00:00;00:00;Sutton",
+                "00:03;00:03;Cheam",
+                "00:06;00:06;Ewell East",
+                "00:10;00:11;Epsom",
+                "00:12;Fer;4-40"
+            ],
+            "times": [
+                "06:22","06:52","07:22","07:52","08:22","08:52","09:22","09:52","10:22","10:52","11:22","11:52"
+            ]
+        },
+        {
+            "ref":"1I12",
+            "description":"Dorking to London Victoria",
+            "dataTemplate":"C377/1_4",
+            "startSpeed":80,
+            "increment":2,
+            "events": [
+                "23:48;Snt;4-39 5-39",
+                "23:49;23:49;Epsom",
+                "23:54;23:54;Ewell East",
+                "23:57;23:57;Cheam",
+                "23:59;00:00;Sutton",
+                "00:03;00:03;Carshalton",
+                "00:06;00:06;Hackbridge",
+                "00:09;00:10;Mitcham Junction",
+                "00:14;00:14;Mitcham Eastfields",
+                "00:16;Fer;94-17"
+            ],
+            "times": [
+                "06:30","07:00","07:30","08:00","08:30","09:00","09:30","10:00","10:30","11:00","11:30"
+
+            ]
+        },
+        {
+            "ref":"1J14",
+            "description":"London Victoria to Horsham",
+            "dataTemplate":"C377/1_4",
+            "startSpeed":80,
+            "increment":2,
+            "events": [
+                "23:50;Snt;94-18 93-18",
+                "00:00;00:00;Sutton",
+                "00:07;00:08;Epsom",
+                "00:12;Fer;4-40"
+            ],
+            "times": [
+                "06:07","06:37","07:07","07:37","08:07","08:37","09:07","09:37","10:07","10:37","11:07","11:37"
+            ]
+        },
+        {
+            "ref":"1J15",
+            "description":"Horsham to London Victoria",
+            "dataTemplate":"C377/1_4",
+            "startSpeed":80,
+            "increment":2,
+            "events": [
+                "23:51;Snt;4-39 5-39",
+                "23:52;23:52;Epsom",
+                "23:59;00:00;Sutton",
+                "00:10;Fer;94-17"
+            ],
+            "times": [
+                
+            ]
+        }
+    ]
+}
