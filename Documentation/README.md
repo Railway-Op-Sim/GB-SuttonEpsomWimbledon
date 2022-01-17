@@ -1,26 +1,15 @@
-# Project Title
+# Sutton, Epsom and Wimbledon
 
-*About the project goes here*
-
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+Sutton, Epsom and Wimbledon covers South-West London and a small part of Surrey. The area contains a large amount of commuter services to and from several London terminii.
 
 ## Simulation
 
-*This section describes the timetable*
+The included timetable is based on the London Victoria closures which occured during December into early January. This means that some services will terminate at different stations that usual, but as far as I can tell there has been no changes to the actual service patterns.
 
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
+Despite the size of the route, it is relatively easy to operate, and a session is included with many automatic routes set to aid in operation.
+
+A further fictional timetable is in production for this route, but it will be released at a later stage.
 
 ## Development
 
-*This section is optional though highly recommended*
-
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+This project is open for contributions on the ROS GitHub organistations. If you would like to improve or add to this route, feel free to do so [here.](https://github.com/Railway-Op-Sim/GB-SuttonEpsomWimbledon)
