@@ -12,8 +12,8 @@ A route covering Sutton, Epsom and Wimbledon, designed to connect with several o
 | Naming | :heavy_check_mark:      |
 | Speed Limits | :heavy_check_mark: |
 | Distances | :heavy_check_mark: |
-| Timetable | :x: |
-| Documentation | :x: |
+| Timetable | :heavy_check_mark: |
+| Documentation | :heavy_check_mark: |
 
 
 ## Data Sources
